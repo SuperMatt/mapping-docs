@@ -21,4 +21,9 @@ If you don't know how to use git, here's a brief overview:
 
 That's it! Now you can version control your maps and collaborate with others on your projects. 
 
-When you've made a change to your .map file, you can run `git add .`, `git commit -m "Your commit message"`, and `git push` to push the changes to the remote repository.
+When you've made a change to your .map file, you can run the following commands to push the changes to the remote respositor:
+1. Run `git status` to see which files have changed
+1. Run `git add .` to add the changes to the repository
+1. Run `git commit -m "Your commit message"` to commit the changes
+1. Run `git push` to push the changes to the remote repository
+
