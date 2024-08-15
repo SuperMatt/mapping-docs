@@ -2,7 +2,7 @@ baseURL: 'https://supermatt.github.io/mapping-docs/'
 languageCode: 'en-us'
 title: "SuperMatt's Mapping Docs"
 theme: 'ananke'
-publishDir: '../docs'
+#publishDir: '../docs'
 
 menus:
   main:
