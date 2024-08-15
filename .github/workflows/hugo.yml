@@ -56,11 +56,10 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-            --source "mapping-docs"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./mapping-docs/public
+          path: ./public
 
   # Deployment job
   deploy:
