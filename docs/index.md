@@ -1,1 +1,6 @@
-### Hello Markdown
+layout: page
+title: "index"
+permalink: /
+
+### Index
+foobar
