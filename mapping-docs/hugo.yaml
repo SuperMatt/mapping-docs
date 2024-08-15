@@ -1,0 +1,22 @@
+baseURL: 'https://supermatt.github.io/mapping-docs/'
+languageCode: 'en-us'
+title: 'mapping-docs'
+theme: 'ananke'
+
+menus:
+  main:
+    - Name: Home
+      URL: "/"
+      Weight: 10
+    - Name: Tutorials
+      URL: "/tutorials/"
+      Weight: 20
+    - Name: How-To Guides
+      URL: "/how-to-guides/"
+      Weight: 30
+    - Name: Explanation
+      URL: "/explanation/"
+      Weight: 40
+    - Name: Reference
+      URL: "/reference/"
+      Weight: 50
