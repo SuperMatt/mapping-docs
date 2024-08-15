@@ -1,7 +1,7 @@
 ---
 title: "World Geometry"
 date: 2024-08-15T14:05:56+01:00
-draft: true
+draft: false
 ---
 
 World Geometry is the term used to describe the walls, floors, and ceilings that make up the level in a Quake engine game. The world geometry is made up of brushes, which are solid objects that define the shape of the level. Brushes can be textured with different materials to create the appearance of walls, floors, and ceilings.
