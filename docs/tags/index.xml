@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on mapping-docs</title>
-    <link>https://supermatt.github.io/mapping-docs/tags/</link>
-    <description>Recent content in Tags on mapping-docs</description>
+    <title>Tags on SuperMatt&#39;s Mapping Docs</title>
+    <link>http://localhost:1313/mapping-docs/tags/</link>
+    <description>Recent content in Tags on SuperMatt&#39;s Mapping Docs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://supermatt.github.io/mapping-docs/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mapping-docs/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
